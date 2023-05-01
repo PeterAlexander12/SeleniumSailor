@@ -1,0 +1,45 @@
+﻿# Visual Studio and JetBrains Rider user-specific settings
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.ide/
+*.pidb
+*.svclog
+*.dotCover
+*.ncrunchsolution
+*.resharper
+*.testlog
+.idea/
+
+# Build artifacts
+bin/
+obj/
+packages/
+*.nupkg
+
+# Log files
+*.log
+
+# NuGet config files
+nuget.config
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# Miscellaneous
+.DS_Store
+*.bak
+*.swp
+*.swpx
+*~
+thumbs.db
+*.dbmdl
+*.cache
+*.vsp
+*.bak.*
+*.swp.*
+*.userprefs
+*.*.sw?
